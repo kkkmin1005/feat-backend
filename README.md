@@ -12,3 +12,12 @@
 ### 주요기능
 
 ![KakaoTalk_20250103_231948535](https://github.com/user-attachments/assets/feeb5d45-1fe2-40e5-8ac0-89f7550a04fd)
+
+### 기술 스택(backend)
+<div>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<div>
+
